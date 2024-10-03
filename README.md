@@ -8,7 +8,7 @@
 
 ## Grupo 7
 
-## Integrantes: <a href="https://www.linkedin.com/in/pedrodimitry/">Pedro Dimitry Zyrianoff</a>, <a href="https://www.linkedin.com/in/arthurlins/">Arthur LIns Belarmino</a>, <a href="https://www.linkedin.com/in/victorbarq/">Vitor Wang</a>, <a href="https://www.linkedin.com/in/victorbarq/">Lucas Kenichi</a>, <a 
+## Integrantes: <a href="https://www.linkedin.com/in/pedrodimitry/">Pedro Dimitry Zyrianoff</a>, <a href="https://www.linkedin.com/in/arthurlins/">Arthur LIns Belarmino</a>, <a href="https://www.linkedin.com/in/victorbarq/">Vitor Wang</a>, <a href="https://www.linkedin.com/in/victorbarq/">Lucas Kenichi</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. David Lemos</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Rosseti</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Francisco Escobar</a>, <a href="https://www.linkedin.com/in/victorbarq/">Katia Bosque</a>
 
