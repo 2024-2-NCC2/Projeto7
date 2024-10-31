@@ -25,7 +25,8 @@ Nosso site é um portal completo para quem busca melhorar sua saúde, bem-estar 
 Nosso objetivo é fornecer um guia confiável e acessível para quem deseja adotar um estilo de vida saudável, com informações baseadas em ciência e conteúdos atualizados regularmente.
 
 <br><br>
-
+Link banco de dados entrega 03
+https://github.com/2024-2-NCC2/Projeto7/tree/main/documentos/Entrega%203/Banco%20de%20dados
 
 ## 🛠 Estrutura de pastas
 
