@@ -1,6 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';
+import Header from './components/header';
 import Nutrição from './pages/nutrição'
 import Comunidade from './pages/comunidade';
 import Fitness from './pages/fitness';
@@ -17,6 +18,7 @@ function App() {
   return (
     <Router>
       <div>
+        <header></header>
         <Routes>
           <Route path="/" element={<Home/>} />
           <Route path="/nutrição" element={<Nutrição/>} />
