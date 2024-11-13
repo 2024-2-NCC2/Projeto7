@@ -1,5 +1,5 @@
 import React from 'react';
-
+import { Link } from 'react-router-dom'; 
 
 const BoloDeBatataDoce = () => {
   return (
@@ -31,9 +31,10 @@ const BoloDeBatataDoce = () => {
         <li>Deixe esfriar antes de desenformar e sirva.</li>
       </ol>
 
-      <a href="../Nutrição/nutrição.html">
+    
+      <Link to="/nutricao"> 
         <button style={{ backgroundColor: 'chartreuse' }}>Voltar</button>
-      </a>
+      </Link>
     </div>
   );
 }
