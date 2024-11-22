@@ -14,7 +14,7 @@ import img7 from '../assets/imagens/imagens-bem estar/metas-e-objetivos.jpg';
 const Bemestar = () => (
     <div className="bemestar">
     
-      <h1>Dicas de Bem Estar</h1>
+      <h3>Dicas de Bem Estar</h3>
       <div className="container">
         <div className="row">
           {/* Card 1 */}

@@ -26,7 +26,7 @@ const Comunidade = () => {
         <div className="telegram-link">
           <p>
             Entre na nossa comunidade do 
-            <a href="https://t.me/link" target="_blank" rel="noopener noreferrer"> Telegram</a>
+            <a href="https://t.me/+Sux1tnL3huQxZGNh" target="_blank" rel="noopener noreferrer"> Telegram</a>
           </p>
         </div>
 
